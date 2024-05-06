@@ -1,0 +1,2 @@
+Working with Bootstrap : Introduction to Bootstrap, Setting up Bootstrap, Bootstrap Grid System, Bootstrap Image Gallery, Bootstrap Typography, Bootstrap Blockquotes and Lists, Bootstrap Code Blocks, Bootstrap Table Classes, Bootstrap Button Classes, Bootstrap Dropdown, Create a customized application using Bootstrap
+Basics of Angular : Introduction to Angular, features, Installation, architecture, basics of TypeScript, modules, components, directives-ngIf, ngStyle, Databinding- string interpolation, event binding, property binding.

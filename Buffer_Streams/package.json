@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-status-monitor": "^1.2.3",
+    "i": "^0.3.7"
+  },
+
+  "scripts": {
+    "start": "node streams2.js",
+    "test": "mocha test/**/*.js"
+  }
+}
